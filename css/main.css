@@ -1,0 +1,27 @@
+/* HEADER */
+#header {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+#header .header-title {
+  margin: 0 auto;
+}
+
+#header .header-img {
+  width: 30px;
+  height: auto;
+}
+
+#header .header-info {
+  background-color: var(--accent-color-dark); 
+  padding: 1rem;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-right: 1rem;
+} 

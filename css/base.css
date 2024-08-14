@@ -1,0 +1,22 @@
+:root {
+  --primary-font: Helvetica, Arial, sans-serif;
+  --background-color: #F7F7F8;
+  --flag-italy-green: #008C45;
+  --flag-italy-white: #F4F9FF;
+  --flag-italy-red: #CD212A;
+  --accent-color-dark: #3A1078;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+  font-family: var(--primary-font);
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--background-color);
+}
+

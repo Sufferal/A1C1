@@ -1,0 +1,11 @@
+.text-green-italy {
+  color: var(--flag-italy-green);
+}
+
+.text-white-italy {
+  color: var(--flag-italy-white);
+}
+
+.text-red-italy {
+  color: var(--flag-italy-red);
+}
