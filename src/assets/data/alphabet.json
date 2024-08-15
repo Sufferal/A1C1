@@ -1,0 +1,7 @@
+{
+  "a": ["/audio/alphabet/alphabet_a.ogg"],
+  "b": ["/audio/alphabet/alphabet_b.ogg"],
+  "c": ["/audio/alphabet/alphabet_c.ogg", "/audio/alphabet/alphabet_c_2.ogg"],
+  "d": ["/audio/alphabet/alphabet_d.ogg"],
+  "e": ["/audio/alphabet/alphabet_e.ogg", "/audio/alphabet/alphabet_e_2.ogg"]
+}

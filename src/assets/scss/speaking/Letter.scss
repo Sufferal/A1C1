@@ -1,0 +1,21 @@
+.letter {
+  &-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-name {
+    font-size: 2rem;
+  }
+
+  &-btn {
+    &-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.5rem;
+    }
+  }
+}

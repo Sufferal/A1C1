@@ -20,6 +20,16 @@ body {
   background-color: var(--background-color);
 }
 
+/* UTILITIES */
+/* Section */
+.section {
+  &-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem; 
+  }
+}
+
+/* Text */
 .text-green-italy {
   color: var(--flag-italy-green);
 }
