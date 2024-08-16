@@ -8,9 +8,42 @@
 
   &-name {
     font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
   }
 
   &-btn {
+    --btn-size: 30px;
+    min-width: var(--btn-size);
+    min-height: var(--btn-size);
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+
+    svg {
+      transition: all 0.1s ease-in;
+      fill: var(--volume-icon-default);
+    }
+
+    &:hover {
+      svg {
+        fill: var(--accent-color-dark);
+      }
+    }
+
+    &-disabled {
+      font-size: 1rem;
+      font-weight: bold;
+      font-style: italic;
+      color: var(--volume-icon-default);
+      letter-spacing: 0.05rem;
+
+      &:hover {
+        color: var(--accent-color-dark);
+      }
+    }
+
     &-wrapper {
       display: flex;
       justify-content: center;

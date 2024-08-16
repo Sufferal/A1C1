@@ -3,5 +3,21 @@
   "b": ["/audio/alphabet/alphabet_b.ogg"],
   "c": ["/audio/alphabet/alphabet_c.ogg", "/audio/alphabet/alphabet_c_2.ogg"],
   "d": ["/audio/alphabet/alphabet_d.ogg"],
-  "e": ["/audio/alphabet/alphabet_e.ogg", "/audio/alphabet/alphabet_e_2.ogg"]
+  "e": ["/audio/alphabet/alphabet_e.ogg", "/audio/alphabet/alphabet_e_2.ogg"],
+  "f": ["/audio/alphabet/alphabet_f.ogg"],
+  "g": ["/audio/alphabet/alphabet_g.ogg", "/audio/alphabet/alphabet_g_2.ogg"],
+  "h": [],
+  "i": ["/audio/alphabet/alphabet_i.ogg", "/audio/alphabet/alphabet_i_2.ogg"],
+  "l": ["/audio/alphabet/alphabet_l.ogg"],
+  "m": ["/audio/alphabet/alphabet_m.ogg"],
+  "n": ["/audio/alphabet/alphabet_n.ogg"],
+  "o": ["/audio/alphabet/alphabet_o.ogg", "/audio/alphabet/alphabet_o_2.ogg"],
+  "p": ["/audio/alphabet/alphabet_p.ogg"],
+  "q": ["/audio/alphabet/alphabet_q.ogg"],
+  "r": ["/audio/alphabet/alphabet_r.ogg"],
+  "s": ["/audio/alphabet/alphabet_s.ogg", "/audio/alphabet/alphabet_s_2.ogg"],
+  "t": ["/audio/alphabet/alphabet_t.ogg"],
+  "u": ["/audio/alphabet/alphabet_u.ogg", "/audio/alphabet/alphabet_u_2.ogg"],
+  "v": ["/audio/alphabet/alphabet_v.ogg"],
+  "z": ["/audio/alphabet/alphabet_z.ogg", "/audio/alphabet/alphabet_z_2.ogg"]
 }

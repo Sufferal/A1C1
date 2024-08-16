@@ -1,6 +1,7 @@
 #alphabet-content {
+  max-width: 750px;
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 2rem;
+  gap: 4rem;
 }
