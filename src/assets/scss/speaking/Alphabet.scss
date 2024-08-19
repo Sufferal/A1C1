@@ -1,4 +1,27 @@
-#alphabet-content {
+.alphabet {
+  &-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  &-info {
+    max-width: 750px;
+  }
+
+  &-title {
+    margin-bottom: 1rem;
+    color: var(--accent-color-dark);
+  }
+
+  &-desc {
+    line-height: 1.6;
+    font-size: 1.15rem;
+    margin-bottom: 2rem;
+  }
+}
+
+.letters-content {
   max-width: 750px;
   display: flex;
   flex-wrap: wrap;
